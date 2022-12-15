@@ -9,10 +9,6 @@ video platform using CSS and JavaScript
 * CSS
 * JavaScript
 
-## live site 
-
-https://peter-kimanzi.github.io/awesome-video-platform/
-
 ## screenshots
 
 ![skate2](https://user-images.githubusercontent.com/71552773/184319406-268dec14-9781-48cf-b029-b2a80ad5909a.PNG)
